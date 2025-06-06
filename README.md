@@ -18,13 +18,10 @@ Use Bootstrap 5 CDN to create a responsive blog page with a navbar, blog cards, 
 - VS Code
 - Chrome Browser
 
-## Screenshot:
-(Add a screenshot of the completed blog layout if you have one)
+
 
 ## How to Run:
 1. Open the `index.html` file in a browser.
 2. You’ll see a responsive blog layout with blog post cards and footer.
-
----
 
 ✅ Submitted by: *Annapurna Murlidhar Bichchal*
